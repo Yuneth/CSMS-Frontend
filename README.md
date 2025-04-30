@@ -10,31 +10,31 @@
 
 ## Setup Instructions:
 
-### Backend: Spring Boot
+#### Backend: Spring Boot
 
-### Database: MySQL
+#### Database: MySQL
 
-### Frontend: React.js with Material UI
+#### Frontend: React.js with Material UI
 
-### API Client: Axios
+#### API Client: Axios
 
-### Authentication: JWT
+#### Authentication: JWT
 
-### Java version: 17
+#### Java version: 17
 
-### Database: cleaning_system
+#### Database: cleaning_system
 
-### Form handling and validation: formik + yup
+#### Form handling and validation: formik + yup
 
 
 
-### Download and open it in VS Code
+#### Download and open it in VS Code
 
-### Open New Terminal
+#### Open New Terminal
 
-### Type: npm install {for Install node module}
+#### Type: npm install {for Install node module}
 
-### Finally, Type: npm start
+#### Finally, Type: npm start
 
 
 
