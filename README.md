@@ -4,9 +4,9 @@
 
 ### User Functionality:
 
-### Register and Login to the system
-### Book a Cleaning Service
-### View and Manage Bookings
+#### Register and Login to the system
+#### Book a Cleaning Service
+#### View and Manage Bookings
 
 ## Setup Instructions:
 
